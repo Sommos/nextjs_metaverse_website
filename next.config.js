@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  basePath: 'nextjs_metaverse_website',
+  experimental: {
+    appDir: true,
+  },
 };
 
 module.exports = nextConfig;
