@@ -1,12 +1,12 @@
 # NextJS Metaverse Website
 
 <p align="center">
-    <img src="image_0.png" width="160"/>
-    <img src="image_1.png" width="160"/>
-    <img src="image_2.png" width="160"/>
-    <img src="image_3.png" width="160"/>
-    <img src="image_4.png" width="160"/>
-    <img src="image_5.png" width="800"/>
+    <img src="image_0.png" width="400" height="200" />
+    <img src="image_2.png" width="400" height="200" />
+    <img src="image_1.png" width="400" height="200" />
+    <img src="image_3.png" width="400" height="200" />
+    <img src="image_4.png" width="400" height="200" />
+    <img src="image_5.png" width="800" />
 </p>
 
 This program is to test the Next framework and JavaScript language, building a basic metaverse website.
