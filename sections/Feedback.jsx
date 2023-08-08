@@ -28,8 +28,8 @@ const Feedback = () => (
           </p>
         </div>
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
-          "Amid the rapid evolution of technology, the metaverse emerges as a 
-          potent tool for contemporary tasks, akin to a modern iteration of 
+          "Amid the rapid evolution of technology, the metaverse emerges as a
+          potent tool for contemporary tasks, akin to a modern iteration of
           the web (Web 3.0)."
         </p>
       </motion.div>
@@ -37,7 +37,7 @@ const Feedback = () => (
         variants={fadeIn('left', 'tween', 0.2, 1)}
         className="relative flex-1 flex justify-center items-center"
       >
-        <img 
+        <img
           src="/planet-09.png"
           alt="planet-09"
           className="w-full lg:h-[475px] h-auto min-h-[210px] object-cover rounded-[40px]"
@@ -46,7 +46,7 @@ const Feedback = () => (
           variants={zoomIn(0.4, 1)}
           className="lg:block hidden absolute -left-[10%] top-[3%]"
         >
-          <img 
+          <img
             src="/stamp.png"
             alt="stamp"
             className="w-[155px] h-[155px] object-contain"

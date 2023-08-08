@@ -1,9 +1,9 @@
 'use client';
 
-import { motion }  from 'framer-motion';
+import { motion } from 'framer-motion';
 import { TypingText } from '../components';
 
-import styles  from '../styles';
+import styles from '../styles';
 import { fadeIn, staggerContainer } from '../utils/motion';
 
 const About = () => (
@@ -25,8 +25,8 @@ const About = () => (
         emerges as a futuristic realm where virtual reality blurs the line between
         <span className="font-extrabold text-white"> reality and imagination </span>
         , allowing an immersive experience that mirrors genuine sensations. Driven by advanced
-        <span className="font-extrabold text-white"> VR </span> 
-        technology, effortlessly transforms desired virtual landscapes into tangible encounters, offering an avenue to actualize your 
+        <span className="font-extrabold text-white"> VR </span>
+        technology, effortlessly transforms desired virtual landscapes into tangible encounters, offering an avenue to actualize your
         <span className="font-extrabold text-white"> dreams</span>
         . Join us in delving into the captivating metaverse journey as we delve deeper below.
       </motion.p>
