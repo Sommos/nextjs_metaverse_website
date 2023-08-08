@@ -20,8 +20,8 @@ const GetStarted = () => (
         variants={planetVariants('left')}
         className={`flex-1 ${styles.flexCenter}`}
       >
-        <img 
-          src="/get-started.png"
+        <img
+          src="get-started.png"
           alt="get-started"
           className="w-[90%] h-[90%] object-contain"
         />
@@ -34,7 +34,7 @@ const GetStarted = () => (
         <TitleText title={<>Get started with just a few clicks</>} />
         <div className="mt-[31px] flex flex-col max-w-[370px] gap-[24px]">
           {startingFeatures.map((feature, index) => (
-            <StartSteps 
+            <StartSteps
               key={feature}
               number={index + 1}
               text={feature}

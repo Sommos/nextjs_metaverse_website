@@ -24,7 +24,7 @@ const WhatsNew = () => (
         <TitleText title={<>What's new about Metaversus?</>} />
         <div className="mt-[48px] flex flex-wrap justify-between gap-[24px]">
           {newFeatures.map((feature) => (
-            <NewFeatures 
+            <NewFeatures
               key={feature.title}
               {...feature}
             />
@@ -35,8 +35,8 @@ const WhatsNew = () => (
         variants={planetVariants('right')}
         className={`flex-1 ${styles.flexCenter}`}
       >
-        <img 
-          src="/whats-new.png"
+        <img
+          src="whats-new.png"
           alt="whats-new"
           className="w-[90%] h-[90%] object-contain"
         />
