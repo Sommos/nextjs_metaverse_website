@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Find a world that is for you',
+  'Enter the world by reading 1984 to be safe',
+  'Find your friends, or make new ones!',
 ];
 
 export const newFeatures = [
@@ -50,21 +50,21 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Elon Musk Unveils a Bold Vision for the Metaverse',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Elon Musk\'s visionary article explores the metaverse as a transformative realm, bridging physical and digital spaces for unprecedented collaboration and education.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'Exploring the Metaverse: Merging Horizons and Ethics',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'Neil deGrasse Tyson\'s insightful perspective on the metaverse reveals a dynamic convergence of realities, promising innovative collaborations and educational avenues.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Unlocking Metaverse: A New Era of Connection & Innovation',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Zuckerberg delves into the metaverse\'s potential as a groundbreaking realm that interweaves physical and digital dimensions, offering unparalleled avenues for connectivity.',
   },
 ];
 

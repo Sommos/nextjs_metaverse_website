@@ -22,13 +22,13 @@ const About = () => (
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
         <span className="font-extrabold text-white">Metaverse </span>
-        is a new thing in the future, where you can enjoy the virtual world by feeling like it's really real, you can feel what you feel in this metaverse world, because this is really the 
-        <span className="font-extrabold text-white"> madness of the metaverse </span>
-        today, using only
+        emerges as a futuristic realm where virtual reality blurs the line between
+        <span className="font-extrabold text-white"> reality and imagination </span>
+        , allowing an immersive experience that mirrors genuine sensations. Driven by advanced
         <span className="font-extrabold text-white"> VR </span> 
-        devices you can easily 
-        <span className="font-extrabold text-white"> explore </span>
-        the metaverse world you want, turn your dreams into reality. Let's explore the madness of the metaverse by scrolling down
+        technology, effortlessly transforms desired virtual landscapes into tangible encounters, offering an avenue to actualize your 
+        <span className="font-extrabold text-white"> dreams</span>
+        . Join us in delving into the captivating metaverse journey as we delve deeper below.
       </motion.p>
       <motion.img
         variants={fadeIn('up', 'tween', 0.3, 1)}
