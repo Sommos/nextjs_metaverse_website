@@ -1,27 +1,27 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
+    imgUrl: 'planet-01.png',
     title: 'The Hogwarts',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
+    imgUrl: 'planet-02.png',
     title: 'The Upside Down',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
+    imgUrl: 'planet-03.png',
     title: 'Kadirojo Permai',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
+    imgUrl: 'planet-04.png',
     title: 'Paradise Island',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
+    imgUrl: 'planet-05.png',
     title: 'Hawkins Labs',
   },
 ];
@@ -34,13 +34,13 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
+    imgUrl: 'vrpano.svg',
     title: 'New Worlds',
     subtitle:
         'The latest update comes with a multitude of worlds for you to explore. Each world has its own story to tell.',
   },
   {
-    imgUrl: '/headset.svg',
+    imgUrl: 'headset.svg',
     title: 'Improved Experience',
     subtitle:
         'Updated with the latest technology, you can now experience each world in a more realistic way!',
@@ -49,19 +49,19 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
+    imgUrl: 'planet-06.png',
     title: 'Elon Musk Unveils a Bold Vision for the Metaverse',
     subtitle:
         'Elon Musk\'s visionary article explores the metaverse as a transformative realm, bridging physical and digital spaces for unprecedented collaboration and education.',
   },
   {
-    imgUrl: '/planet-07.png',
+    imgUrl: 'planet-07.png',
     title: 'Exploring the Metaverse: Merging Horizons and Ethics',
     subtitle:
         'Neil deGrasse Tyson\'s insightful perspective on the metaverse reveals a dynamic convergence of realities, promising innovative collaborations and educational avenues.',
   },
   {
-    imgUrl: '/planet-08.png',
+    imgUrl: 'planet-08.png',
     title: 'Unlocking Metaverse: A New Era of Connection & Innovation',
     subtitle:
         'Zuckerberg delves into the metaverse\'s potential as a groundbreaking realm that interweaves physical and digital dimensions, offering unparalleled avenues for connectivity.',
@@ -71,18 +71,18 @@ export const insights = [
 export const socials = [
   {
     name: 'twitter',
-    url: '/twitter.svg',
+    url: 'twitter.svg',
   },
   {
     name: 'linkedin',
-    url: '/linkedin.svg',
+    url: 'linkedin.svg',
   },
   {
     name: 'instagram',
-    url: '/instagram.svg',
+    url: 'instagram.svg',
   },
   {
     name: 'facebook',
-    url: '/facebook.svg',
+    url: 'facebook.svg',
   },
 ];

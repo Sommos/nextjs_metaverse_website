@@ -28,7 +28,7 @@ const World = () => (
         className="relative mt-[68px] flex w-full h-[550px]"
       >
         <img
-          src="/map.png"
+          src="map.png"
           alt="map"
           className="w-full h-full object-cover"
         />
@@ -55,7 +55,7 @@ const World = () => (
         </div>
         <div className="invisible xl:visible absolute top-60 left-[18%] w-[287px] h-[125px] p-[1px] rounded-2xl bg-[#5d6680] glassmorphism">
           <img
-          src="/card-01.png"
+          src="card-01.png"
           alt="card 1"
           className="w-full h-full rounded-2xl"
           />
@@ -68,7 +68,7 @@ const World = () => (
         </h3>
         <div className="invisible xl:visible absolute bottom-72 right-[19%] w-[287px] h-[125px] p-[1px] rounded-2xl bg-[#5d6680] glassmorphism">
           <img
-          src="/card-02.png"
+          src="card-02.png"
           alt="card 2"
           className="w-full h-full rounded-2xl"
           />
