@@ -2,6 +2,7 @@
 const nextConfig = {
   experimental: {
     appDir: false,
+    basePath: '/nextjs_metaverse_website',
   }
 };
 
