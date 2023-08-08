@@ -53,30 +53,30 @@ const World = () => (
             className="w-full h-full"
           />
         </div>
-        <div className="invisible md:visible absolute top-60 left-[18%] w-[287px] h-[125px] p-[1px] rounded-2xl bg-[#5d6680] glassmorphism">
+        <div className="invisible xl:visible absolute top-60 left-[18%] w-[287px] h-[125px] p-[1px] rounded-2xl bg-[#5d6680] glassmorphism">
           <img
           src="/card-01.png"
           alt="card 1"
           className="w-full h-full rounded-2xl"
           />
         </div>
-        <h3 className="invisible md:visible font-semibold top-[58%] left-[19%] sm:text-[26px] text-[14px] text-white absolute z-0 lg:bottom-40 lg:origin-[0,0] drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]">
+        <h3 className="invisible xl:visible font-semibold top-[58%] left-[19%] sm:text-[26px] text-[26px] text-white absolute z-0 drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]">
           The Upside Down
         </h3>
-        <h3 className="invisible md:visible top-[55%] left-[19%] sm:text-[18px] text-[12px] text-white absolute z-0 lg:bottom-40 lg:origin-[0,0] drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]">
+        <h3 className="invisible xl:visible top-[55%] left-[19%] sm:text-[18px] text-[18px] text-white absolute z-0 drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]">
           +231 users joined
         </h3>
-        <div className="invisible md:visible absolute bottom-72 right-[19%] w-[287px] h-[125px] p-[1px] rounded-2xl bg-[#5d6680] glassmorphism">
+        <div className="invisible xl:visible absolute bottom-72 right-[19%] w-[287px] h-[125px] p-[1px] rounded-2xl bg-[#5d6680] glassmorphism">
           <img
           src="/card-02.png"
           alt="card 2"
           className="w-full h-full rounded-2xl"
           />
         </div>
-        <h3 className="invisible md:visible font-semibold top-[39.4%] left-[59.6%] sm:text-[26px] text-[14px] text-white absolute z-0 lg:bottom-40 lg:origin-[0,0] drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]">
+        <h3 className="invisible xl:visible font-semibold top-[39.4%] left-[59.6%] text-[26px] text-white absolute z-0 drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]">
           Hawkins Labs
         </h3>
-        <h3 className="invisible md:visible top-[36%] right-[28.6%] sm:text-[18px] text-[12px] text-white absolute z-0 lg:bottom-40 lg:origin-[0,0] drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]">
+        <h3 className="invisible xl:visible top-[36%] right-[28.6%] text-[18px] text-white absolute z-0 drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]">
           +429 users joined
         </h3>
       </motion.div>
